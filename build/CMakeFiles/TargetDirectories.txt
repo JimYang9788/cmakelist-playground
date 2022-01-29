@@ -1,0 +1,6 @@
+/Users/jimyang/projects/cmake-tutorial/build/CMakeFiles/Tutorial.dir
+/Users/jimyang/projects/cmake-tutorial/build/CMakeFiles/edit_cache.dir
+/Users/jimyang/projects/cmake-tutorial/build/CMakeFiles/rebuild_cache.dir
+/Users/jimyang/projects/cmake-tutorial/build/MathStuff/CMakeFiles/MathStuff.dir
+/Users/jimyang/projects/cmake-tutorial/build/MathStuff/CMakeFiles/edit_cache.dir
+/Users/jimyang/projects/cmake-tutorial/build/MathStuff/CMakeFiles/rebuild_cache.dir

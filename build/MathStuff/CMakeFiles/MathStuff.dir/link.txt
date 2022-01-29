@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libMathStuff.a CMakeFiles/MathStuff.dir/math.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libMathStuff.a
